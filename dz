@@ -1,0 +1,17 @@
+using static System.Runtime.InteropServices.JavaScript.JSType;
+//Задание 2
+
+//double znach = Convert.ToDouble(Console.ReadLine());
+//double proc = Convert.ToDouble(Console.ReadLine());
+//int a = (int)znach;
+//int b = (int)proc;
+//int c = (a * b) / 100;
+//Console.WriteLine($"Результат: {c}");
+
+//Задание 3
+
+double one = Convert.ToDouble(Console.ReadLine());
+double two = Convert.ToDouble(Console.ReadLine());
+double three = Convert.ToDouble(Console.ReadLine());
+double four = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine($"{one}{two}{three}{four}");
